@@ -11,3 +11,5 @@ print("you got entire git great")
 
 
 print("pushing from the git ")
+
+print("pulling from the git)
